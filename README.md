@@ -11,5 +11,5 @@ On another shell, type:
 `npm install`
 `npm start`: ReactJS runs at localhost:3000
 
-##### Note to self: `localhost:8000/admin login`: rajitaroy password: 12345
-Application runs at `http://localhost:3000`
+###### Note to self: `localhost:8000/admin login`: rajitaroy password: 12345
+#### Application runs at `http://localhost:3000`
