@@ -1,3 +1,5 @@
+## Steps to run:  
+
 This application needs to run simultaneously for backend and frontend.
 
 `cd Digit-Image-Classification`
